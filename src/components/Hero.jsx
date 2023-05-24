@@ -148,7 +148,7 @@ Dedicated and ambitious Computing Systems and Engineering Technology student at 
         </Sphere>
       </Suspense>
     </Canvas> */}
-          <Img src="./src/public/img/jess.jpeg"/>
+          <Img src="/static/img/jess.jpeg"/>
         </Right>
       </Container>
     </Section>

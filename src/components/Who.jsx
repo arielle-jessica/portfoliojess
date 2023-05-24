@@ -103,7 +103,7 @@ const Who = () => {
     <Section id="about">
       <Container>
         <Left>
-        <img src ="./src/assets/whob.png"/>
+        <img src ="/static/img/whob.png"/>
         </Left>
         <Right>
           <Title>Technology Enthusiast</Title>

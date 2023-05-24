@@ -101,7 +101,7 @@ const Works = () => {
     <Section id ="projects">
       <Container>
         <Left>
-        <img src ="./src/assets/restauu.png"/>
+        <img src ={"/static/img/restauu.png"}/>
        <h1> African Restaurant Website ( Template )</h1>
         </Left>
         <Right>

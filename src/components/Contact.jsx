@@ -130,7 +130,7 @@ const Contact = () => {
         </Left>
         <Right>
         <a href="https://www.google.com/maps/place/St+John's,+NL/@47.4826312,-52.8296403,11z">
-  <img src="./src/assets/map.png" alt="Maps" style={{ width: "500px", height: "auto" }} />
+  <img src="/static/img/map.png" alt="Maps" style={{ width: "500px", height: "auto" }} />
 </a>
 
         </Right>

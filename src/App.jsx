@@ -32,7 +32,7 @@ scrollbar-width: none;
 color: black;
 width: 100%;
 min-height: 100vh;
-background-image: url("./src/assets/bgr.jpg");
+background-image: url("/static/img/bgr.jpg");
 background-repeat: no-repeat;
 background-position: center;
 background-size: contain;

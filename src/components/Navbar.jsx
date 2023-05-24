@@ -63,7 +63,7 @@ const Button = styled.button`
   border-radius: 15px;
   cursor: pointer;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  background-image: url("./src/assets/bgr.jpg");
+  background-image: url("/static/img/bgr.jpg");
   &:hover,
   &:focus {
     text-decoration: none;
@@ -86,7 +86,7 @@ const Navbar = () => {
     <Section>
       <Container>
         <Links>
-          <Logo src="./src/assets/bgg.png" />
+          <Logo src="/static/img/bgg.png" />
           <List>
             <ListItem>
               <Button><a href="#home">Home</a></Button>
@@ -104,7 +104,7 @@ const Navbar = () => {
         </Links>
         <Icons>
           <a href="https://www.linkedin.com/in/jessica-iba-39b237227/" className="icon-button">
-            <Icon src="./src/assets/liN.png" alt="LinkedIn Icon" />
+            <Icon src="/static/img/LiN.png" alt="LinkedIn Icon" />
           </a>
         </Icons>
       </Container>
